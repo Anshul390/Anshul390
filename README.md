@@ -7,12 +7,12 @@
 <h5 align="center"><i>(Feel free to reach to me via any social-media platforms below if you want to have a talk)</i></h5>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Anshul_Vaidya-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshul-vaidya-51808715b/)](https://www.linkedin.com/in/anshul-vaidya-51808715b)
+[![Linkedin Badge](https://img.shields.io/badge/-Anshul-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anshul--51808715b/)](https://www.linkedin.com/in/anshul--51808715b)
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-1ca0f1?style=flat&labelColor=1ca0f1&logo=Kaggle&logoColor=white&link=https://www.kaggle.com/avi111297)](https://www.kaggle.com/avi111297)
-[![Quora Badge](https://img.shields.io/badge/-Quora-47CCCC?style=flat&logo=Quora&logoColor=red&link=https://www.quora.com/profile/Anshul-Vaidya-5)](https://www.quora.com/profile/Anshul-Vaidya-5)
-[![Medium Badge](https://img.shields.io/badge/-Anshul-1ca0f1?style=flat&labelColor=white&logo=Medium&logoColor=black&link=https://medium.com/@anshul.vaidya1997)](https://medium.com/@anshul.vaidya1997)
+[![Quora Badge](https://img.shields.io/badge/-Quora-47CCCC?style=flat&logo=Quora&logoColor=red&link=https://www.quora.com/profile/Anshul--5)](https://www.quora.com/profile/Anshul--5)
+[![Medium Badge](https://img.shields.io/badge/-Anshul-1ca0f1?style=flat&labelColor=white&logo=Medium&logoColor=black&link=https://medium.com/@anshul.1997)](https://medium.com/@anshul.1997)
 <!-- [![Medium Badge](https://img.shields.io/badge/-Atharva_Ingle-black?style=flat&logo=Medium&logoColor=white&labelColor=black&link=https://atharvaaingle.medium.com/)](https://atharvaaingle.medium.com/) -->
- [![Gmail Badge](https://img.shields.io/badge/-anshulvaidya-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anshul.vaidya1997@gmail.com)](mailto:anshul.vaidya1997@gmail.com) 
+ [![Gmail Badge](https://img.shields.io/badge/-anshul-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:anshul.1997@gmail.com)](mailto:anshul.1997@gmail.com) 
 
 
 <!-- [<img src="https://github.com/sciencepal/sciencepal/blob/master/assets/discord-round.svg" width="3.5%"/>](https://discord.gg/MnUUbHe)
