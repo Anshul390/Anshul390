@@ -81,8 +81,8 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: (Add your link)
-- 📧 Email: (Your email)
+- 💼 LinkedIn: (https://www.linkedin.com/in/anshul-02b29b2a8?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+- 📧 Email: (anshulagg.390@gmail.com)
 
 ---
 
